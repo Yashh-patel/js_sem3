@@ -4,8 +4,8 @@
 
 ## Object Challenge Output
 
-![Object Challenge](obj cha.JPG)
+![Object Challenge](objcha.JPG)
 
 ## Practice Challenge Output
 
-![Practice Challenge](chalneg prac cha.JPG)
+![Practice Challenge](chalnegpraccha.JPG)
