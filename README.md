@@ -1,6 +1,6 @@
 ## Array Challenge Output
 
-![Array Challenge](Arrayc.JPG)
+![Array Challenge](ARRAY.jpg)
 
 ## Object Challenge Output
 
@@ -8,4 +8,4 @@
 
 ## Practice Challenge Output
 
-![Practice Challenge](prac_cha.JPG)
+![Practice Challenge](practice.JPG)
