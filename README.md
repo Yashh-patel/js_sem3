@@ -8,4 +8,4 @@
 
 ## Practice Challenge Output
 
-![Practice Challenge](chalnegpraccha.JPG)
+![Practice Challenge](prac_cha.JPG)
